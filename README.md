@@ -61,7 +61,7 @@ class Program
 
 ---
 
-**Output del Ejemplo / Example Output / Ausgabe**  
+**Example Output / Ausgabe**  
 ```
 Main Thread: 0
 Worker Thread: 0
