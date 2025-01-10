@@ -73,5 +73,5 @@ Main Thread: 4
 Worker Thread: 2
 Worker Thread: 3
 Worker Thread: 4
-Thread terminado.
+Thread done.
 ```
