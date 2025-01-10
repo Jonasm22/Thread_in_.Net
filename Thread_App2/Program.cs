@@ -1,4 +1,7 @@
-﻿namespace Thread_App2;
+﻿// Section 22
+// 350 -Thread Start and End & Completion
+
+namespace Thread_App2;
 
 class Program
 {
